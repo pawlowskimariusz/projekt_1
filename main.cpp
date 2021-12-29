@@ -4,7 +4,7 @@
 
 int main(int argc, char** argv) {
 	int a;
-	printf("Hellow world!!!!\n\r");
+	printf("Hellow world_nowa galaz!!!!\n\r");
 	if (a==2)
 	{
 		printf("TEST");
