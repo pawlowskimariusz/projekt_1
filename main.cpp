@@ -4,7 +4,9 @@
 
 int main(int argc, char** argv) {
 	int a;
+
 	printf("Hellow world zmiana w master !!!!\n\r");
+
 	if (a==2)
 	{
 		printf("TEST");
